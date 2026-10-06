@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background: #eaf4fa; }
+main { max-width: 600px; margin: 40px auto; background: white; padding:
+28px; }
+input, button { width: 100%; box-sizing: border-box; padding: 12px;
+margin-top: 12px; }
+button { background: #1261a0; color: white; border: 0; cursor: pointer;
+}
+li { margin: 10px 0; }
